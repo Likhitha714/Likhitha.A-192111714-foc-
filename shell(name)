@@ -1,0 +1,11 @@
+echo "enter your name:"
+read name 
+echo " enter your program name:"
+read prog 
+echo " enter your enrollment number:"
+read enroll 
+clear
+echo "details you entered"
+echo" Name: $name"
+echo "program Name: $prog "
+echo "enrollemnt number: $enroll"
